@@ -1,6 +1,6 @@
 {
-  "name": "novnc-core",
-  "version": "0.3.0",
+  "name": "novnc-core-window",
+  "version": "0.3.1",
   "description": "noVNC core files for using with node",
   "main": "lib/rfb.js",
   "scripts": {
@@ -8,8 +8,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:larryprice/novnc-core.git"
+    "url": "git@github.com:sagigvili/novnc-core.git"
   },
-  "author": "Larry Price <larry.price.dev@gmail.com>",
+  "author": "Sagi Gvili <sagigvili1993@gmail.com>",
   "license": "MPL 2.0"
 }
